@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ladislav Vašina
 - :man_student: I am currently studying at Faculty of Information Technology at Brno University of Technology
-- 👀 I’m interested in python, all kinds of technology, space, aeronautics
+- 👀 I’m interested in python, all kinds of technologies, space, aeronautics
 - :computer: During my studies I have come in touch with Java, JavaScript, PHP, C, Python, Shell/Bash, GIT a JIRA
 - 🌱 I’m currently improving my Python skills
 - 📫 How to reach me 
