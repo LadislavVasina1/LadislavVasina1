@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Ladislav Vašina
 - :man_student: I am currently studying at Faculty of Information Technology at Brno University of Technology
-- Also I am a Satellite Quality Engineer intern at RedHat
+- 🟥🎩 Also I am a Satellite Quality Engineer intern at RedHat
 - 👀 I’m interested in python, all kinds of technologies, space, aeronautics
-- :computer: During my studies I have come in touch with Java, JavaScript, PHP, C, C++, Python, Shell/Bash, asm, GIT and JIRA
-- 🌱 I’m currently improving my Python skills
+- :computer: During my studies/work I have come in touch with Python, Java, JavaScript, PHP, C, C++, Ansible, Shell/Bash, asm, GIT and JIRA
 - 📫 How to reach me 
      email: ladislavvasina@gmail.com
      phone: +420776461676
