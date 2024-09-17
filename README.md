@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ladislav Vašina
-- :man_student: 🛰️ Currently I am in pursuit of a Master's degree in [Space Applications](https://www.vut.cz/en/students/programmes/programme/7712) programme
+- :man_student: 🛰️ Currently I am in pursuit of a Master's degree in the [Space Applications](https://www.vut.cz/en/students/programmes/programme/7712) programme
 - :man_student: 💻 ✅ I am the Faculty of Information Technology at Brno University of Technology graduate
 - 🟥🎩 Also I am an Associate Software Quality Engineer at RedHat working on [Satellite](https://www.redhat.com/en/technologies/management/satellite)
 - 👀 I’m interested in Python, PyTorch, ML, all kinds of technologies, space, aeronautics
