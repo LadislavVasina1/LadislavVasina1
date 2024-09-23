@@ -6,7 +6,6 @@
 - :computer: During my studies/work I have come in touch with Python, PyTorch, Pandas, Java, JavaScript, PHP, C, C++, Ansible, Shell/Bash, asm, GIT and JIRA
 - 📫 How to reach me 
      email: ladislavvasina@gmail.com
-     phone: +420776461676
 
 <!---
 LadislavVasina1/LadislavVasina1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
