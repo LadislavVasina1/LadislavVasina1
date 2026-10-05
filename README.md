@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ladislav Vašina
-- 🟥🎩 I am a Software Quality Engineer at RedHat working on [Satellite](https://www.redhat.com/en/technologies/management/satellite)
+- 🟥🎩 I am a Software Engineer at RedHat working on [Satellite](https://www.redhat.com/en/technologies/management/satellite)
 - :man_student: 💻  I am the Faculty of [Information Technology at Brno University of Technology](https://www.fit.vut.cz/.en) graduate
 - :man_student: 🛰️ I also studied a Master's program [Space Applications](https://www.vut.cz/en/students/programmes/programme/7712)
 - 👀 I’m interested in Python, PyTorch, ML, all kinds of technologies, space, aeronautics
